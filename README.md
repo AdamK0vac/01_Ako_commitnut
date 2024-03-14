@@ -1,6 +1,8 @@
 # Ako commitnut
 Príklad toho ako commitnúť na GITHUB
 
+Pre funkčnosť treba mať nainštalovaný [Git](https://git-scm.com/downloads) setup verziu na vašom PC
+
 ## Príklad úplne nového repozitára
 
 **Na stránke Githubu:**
