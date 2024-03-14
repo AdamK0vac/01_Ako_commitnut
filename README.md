@@ -14,7 +14,7 @@ Príklad toho ako commitnúť na GITHUB
 1. Otvorte folder v ktorom máte projekt
 2. Spustite Git Bash `right-click` na prázdne miesto vo foldery
 3. Inicializujte Git - `git init`
-4. Git pracuje lokálne takže si ho musíte prepojiť s GitHubom - `git remote add origin sem-skopírujte-https-link`
+4. Git pracuje lokálne takže si ho musíte prepojiť s GitHubom - `git remote add origin sem-vložte-https-link`
 5. Pridajte súbory ktoré chcete uložiť, bodka znamená všetko - `git add .`
 6. Vytvorte commit čiže save verzie - `git commit -m "niaky výstižný názov"`
 7. Pošlite commit na github môžte použiť **master** alebo **main** - `git push origin master` 
@@ -32,7 +32,7 @@ Príklad toho ako commitnúť na GITHUB
 **Na vašom PC**
 1. Nájdite miesto kam chcete vložiť skopírovaný folder/projekt
 2. Spustite Git Bash `right-click` na prázdne miesto vo foldery alebo vo vybranom priestore
-3. Vložte skopírovaný folder - `git clone skopírovaný-https-link`
+3. Vložte skopírovaný folder - `git clone sem-vložte-https-link`
 4. Vstúpte do skopírovaného foldera - `cd meno-foldera`
 5. **Teraz môžte robiť zmeny so skopírovaným projektom**
 6. Ak ste so zmenami skončili - `git add .`
